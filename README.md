@@ -158,7 +158,7 @@ A ♠ 2 ♠ 3 ♠ 4 ♠ 5 ♠ 6 ♠ 7 ♠ 8 ♠ 9 ♠ 10 ♠ J ♠ Q ♠ K ♠
 Want an extra challenge (make sure this is **after** getting all of the above working)?
 
 ## **HACKER CHALLENGE!**
-Use the ASCII art in `Card` class methods to get the following working (hint: you'll want to use the `getPrintCard` method ♦♣❤♠)
+Use the ASCII art in `Card` class methods to get the following working (hint: you'll want to use the `getPrintCard` method ♦♣♥♠)
 ```
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
 |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| 
