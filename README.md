@@ -1,4 +1,4 @@
-# **Unit Deliverable #0 - Classes Review**
+# **Unit Deliverable 0 - Classes Review**
 ![playing cards](cards.png)
 
 Welcome to your first Java project in CS112! Take this project as an opportunity to brush up on CS111 concepts and skills, filling in any gaps you have so that we can all go into Unit 1 feeling more prepared and ready to learn the new material for this course. The point of this project is to have something tangible to review CS111, and what better way than the foundation of so many games. Playing cards! Whether it's Spades, Conquian, Poker, or BlackJack, whether they're played at a BBQ or carne asada, what all of these card games have in common is the standard playing card. What a great example of Abstraction!
@@ -156,7 +156,7 @@ A ♠ 2 ♠ 3 ♠ 4 ♠ 5 ♠ 6 ♠ 7 ♠ 8 ♠ 9 ♠ 10 ♠ J ♠ Q ♠ K ♠
 Want an extra challenge (make sure this is **after** getting all of the above working)?
 
 ## **HACKER CHALLENGE!**
-Use the ASCII art in `Card` class methods to get the following working (hint: you'll want to use the `getPrintCard` method ♦♣♥♠)
+Use the ASCII art in `Card` class methods to get the following working (hint: you'll want to use the `getPrintCard` method).
 ```
 ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
 |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| 
