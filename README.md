@@ -1,5 +1,5 @@
 # **Unit Deliverable #0 - Classes Review**
-![playing cards](instructions/cards.png)
+![playing cards](cards.png)
 
 Welcome to your first Java project in CS112! Take this project as an opportunity to brush up on CS111 concepts and skills, filling in any gaps you have so that we can all go into Unit 1 feeling more prepared and ready to learn the new material for this course. Keep in mind, **everyone** has gaps! There are plenty of times I have to Google something really quick to remind myself, but after doing this so many years those usually are only small reminders. At the start of your CS career, those search sessions are gonna be longer, hunting for the pieces you need to keep going. That's ok!
 
