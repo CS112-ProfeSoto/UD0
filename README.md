@@ -1,7 +1,5 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17975987)
-
-
 # **Unit Deliverable #0 - Classes Review**
+![playing cards](instructions/cards.png)
 
 Welcome to your first Java project in CS112! Take this project as an opportunity to brush up on CS111 concepts and skills, filling in any gaps you have so that we can all go into Unit 1 feeling more prepared and ready to learn the new material for this course. Keep in mind, **everyone** has gaps! There are plenty of times I have to Google something really quick to remind myself, but after doing this so many years those usually are only small reminders. At the start of your CS career, those search sessions are gonna be longer, hunting for the pieces you need to keep going. That's ok!
 
@@ -160,11 +158,28 @@ A ♠ 2 ♠ 3 ♠ 4 ♠ 5 ♠ 6 ♠ 7 ♠ 8 ♠ 9 ♠ 10 ♠ J ♠ Q ♠ K ♠
 Want an extra challenge (make sure this is **after** getting all of the above working)?
 
 ## **HACKER CHALLENGE!**
-![barba gordon at computer in wheel chair with background poster "roll with pride"](instructions/oraclecode.jpeg)
-> Barbara Gordon (Oracle) in The Oracle Code graphic novel by Marieke Nijkamp and Manuel Prietano (image from TheMarySue.com)
-
-Use the ASCII art in `Card` class methods to get the following working (hint: you'll want to use the `getPrintCard` method 😃)
-![hacker challenge screenshot](instructions/hackerChallenge.png)
-
+Use the ASCII art in `Card` class methods to get the following working (hint: you'll want to use the `getPrintCard` method ♦♣❤♠)
+```
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+|♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| 
+|  A  | |  2  | |  3  | |  4  | |  5  | |  6  | |  7  | |  8  | |  9  | | 10  | |  J  | |  Q  | |  K  | 
+|♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| |♥   ♥| 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+|♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| 
+|  A  | |  2  | |  3  | |  4  | |  5  | |  6  | |  7  | |  8  | |  9  | | 10  | |  J  | |  Q  | |  K  | 
+|♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| |♦   ♦| 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+|♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| 
+|  A  | |  2  | |  3  | |  4  | |  5  | |  6  | |  7  | |  8  | |  9  | | 10  | |  J  | |  Q  | |  K  | 
+|♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| |♣   ♣| 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+|♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| 
+|  A  | |  2  | |  3  | |  4  | |  5  | |  6  | |  7  | |  8  | |  9  | | 10  | |  J  | |  Q  | |  K  | 
+|♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| |♠   ♠| 
+------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- ------- 
+```
 
 **_Good luck!!!_**
