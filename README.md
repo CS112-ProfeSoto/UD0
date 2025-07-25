@@ -1,7 +1,7 @@
 # **Unit Deliverable 0 - Classes Review**
 ![playing cards](cards.png)
 
-> Art from Balatro, LocalThunk, Playstack, 2024. Profe Soto's screenshot
+> Art from Balatro, LocalThunk/Playstack, 2024. Profe Soto's screenshot
 
 Welcome to your first Java project in CS112! Take this project as an opportunity to brush up on CS111 concepts and skills, filling in any gaps you have so that we can all go into Unit 1 feeling more prepared and ready to learn the new material for this course. The point of this project is to have something tangible to review CS111, and what better way than the foundation of so many games. **Playing cards**! Whether it's Spades, Conquian, Poker, or BlackJack, whether they're played at a BBQ or _carne asada_, what all of these card games have in common is the standard playing card.
 
